@@ -7,7 +7,7 @@ A *package manager* is a command line tool that allows you to install and manage
 The package manager that we'll be using for this guide is called Homebrew. It's a command-line installer for MacOS, which means that you'll have to be running a macOS in order to use. If you are using a Windows machine the guide [here](https://github.com/210614-JavaFS/Enviroment-Setup) should be much more useful for you. The examples provided here are utilizing macvscodeOS Catalina version 10.15.5.
 
 ## Step 1: Install Homebrew
-
+Go to Homebrew's [home page](https://brew.sh/) and copy the code seen in the image below.
 
 <img src="./images/brew-1.png" width="500"/>
 
